@@ -1,6 +1,7 @@
 {
-    "name": "apimatic/fortisapi",
+    "name": "zeel-dev/og-fortis-api",
     "type": "library",
+    "version": "1.0.0",
     "keywords": [
         "Fortis API",
         "API",
